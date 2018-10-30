@@ -27,7 +27,7 @@ namespace ornek_proje
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-Console.Writeline("deneme");
+            Console.WriteLine("deneme eklendi");
         }
     }
 }
